@@ -10,14 +10,16 @@ environment:
   flutter: ">=3.0.0"
 
 dependencies:
+  bugsnag_flutter: ^4.0.0
   dartastic_opentelemetry: ^1.1.0-beta.5
   dartastic_opentelemetry_api: ^1.0.0-beta.6
   flutter:
     sdk: flutter
-  bugsnag_flutter: ^4.0.0
 
 dev_dependencies:
   dart_flutter_team_lints: ^3.5.2
   flutter_test:
     sdk: flutter
+  pub_semver: ^2.0.0
+  pubspec_parse: ^1.5.0
 

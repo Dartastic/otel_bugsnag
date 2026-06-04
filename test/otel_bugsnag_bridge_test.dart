@@ -4,8 +4,8 @@
 import 'package:bugsnag_flutter/bugsnag_flutter.dart' as bs;
 import 'package:dartastic_opentelemetry/dartastic_opentelemetry.dart';
 import 'package:dartastic_opentelemetry/testing.dart';
-import 'package:otel_bugsnag/otel_bugsnag.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:otel_bugsnag/otel_bugsnag.dart';
 
 /// Minimal `BugsnagClient` stub — only `addOnError` is exercised by
 /// the bridge. Every other method is no-op via `noSuchMethod`.
