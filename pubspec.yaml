@@ -1,6 +1,6 @@
 name: otel_bugsnag
 description: OpenTelemetry bridge for bugsnag_flutter. Mirrors every captured event and breadcrumb as an OTel log record.
-version: 0.1.0-beta.2
+version: 0.1.0-beta.3-wip
 repository: https://github.com/dartastic/otel_bugsnag
 homepage: https://dartastic.io
 publish_to: https://pub.dartastic.io
